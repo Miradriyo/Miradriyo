@@ -1,6 +1,7 @@
 
 ![https://github.com/miradriyo](./banner.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Mireia+!!)](https://git.io/typing-svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miradriyo&layout=compact)
 
 <table>
   <tr>
@@ -12,6 +13,7 @@ Con una sólida experiencia en atención al cliente y gestión comercial,soy cap
  Mi objetivo es unirme a un equipo profesional donde pueda contribuir en proyectos y seguir aprendiendo y creciendo.</td>
   </tr>
 </table>
+
 
 
 <!--
